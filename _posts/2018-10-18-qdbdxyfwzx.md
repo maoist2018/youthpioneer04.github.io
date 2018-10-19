@@ -2,8 +2,7 @@
 published: true
 layout: post
 tags:
-  - 自白书
-  - 南京大学马研会
+  - 北大校园服务中心工友维权
 comments: true
 title:  起底北大校园服务中心领导李有钢、杨影战
 ---
